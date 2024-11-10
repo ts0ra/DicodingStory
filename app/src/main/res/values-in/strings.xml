@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicoding Story</string>
+    <string name="btn_text_signup">Daftar</string>
+    <string name="btn_text_login">Masuk</string>
+    <string name="message_welcome_page">Mau berbagi ilmu tentang Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicoding Story aja!</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding Story!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk berbagi cerita?</string>
+    <string name="message_main_page">Selamat berbagi cerita di Dicoding Story.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="add_widget">Tambah widget</string>
+    <string name="app_widget_description">Ini adalah deskripsi widget aplikasi</string>
+    <string name="appwidget_text">Story Dicoding</string>
+    <string name="empty_text">Tidak ada data</string>
+    <string name="email_error">Email tidak valid</string>
+    <string name="password_error">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="login_success">Berhasil masuk</string>
+    <string name="upload_error">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="camera_button_text">Kamera</string>
+    <string name="gallery_button_text">Galeri</string>
+    <string name="description_text_input">Deskripsi</string>
+    <string name="upload_button_text">Unggah</string>
+    <string name="title_story">Judul</string>
+    <string name="description_story">Deskripsi</string>
+
+    <!--  Image Content Description  -->
+    <string name="content_desc_preview_image_detail_story">gambar sekilas untuk detail cerita</string>
+    <string name="content_desc_upload_story_img">gambar sekilas untuk mengunggah gambar</string>
+    <string name="content_desc_upload_button">tombol untuk menambah cerita</string>
+
+    <!--  Hint  -->
+    <string name="hint_name_input">Masukkan nama</string>
+    <string name="hint_email_input">Masukkan email</string>
+    <string name="hint_password_input">Masukkan kata sandi</string>
+
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Kata sandi</string>
+
+    <string name="actionbar_upload_story">Unggah cerita</string>
+</resources>

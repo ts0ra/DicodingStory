@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Dicoding Story</string>
+    <string name="btn_text_signup">Sign Up</string>
+    <string name="btn_text_login">Login</string>
+    <string name="message_welcome_page">Want to share knowledge about Android, iOS, Machine Learning, Cloud, Front-End, Back-End, and other IT fields? Just do it at Dicoding Story!</string>
+    <string name="title_welcome_page">Welcome to Dicoding Story!</string>
+    <string name="title_signup_page">Complete your personal data below, please!</string>
+    <string name="message_login_page">Please enter your data first</string>
+    <string name="title_login_page">Ready to share your story?</string>
+    <string name="message_main_page">Happy sharing your story on Dicoding Story.</string>
+    <string name="greeting">Hi %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is the widget description of the application.</string>
+    <string name="appwidget_text">Story Dicoding</string>
+    <string name="empty_text">No data</string>
+    <string name="email_error">Invalid email</string>
+    <string name="password_error">The password must be at least 8 characters long.</string>
+    <string name="login_success">Login success</string>
+    <string name="upload_error">Please pick the image file first.</string>
+    <string name="camera_button_text">Camera</string>
+    <string name="gallery_button_text">Gallery</string>
+    <string name="description_text_input">Description</string>
+    <string name="upload_button_text">Upload</string>
+    <string name="title_story">Title</string>
+    <string name="description_story">Description</string>
+
+    <!--  Image Content Description  -->
+    <string name="content_desc_preview_image_detail_story">A brief image for the story details.</string>
+    <string name="content_desc_upload_story_img">A brief image to upload a picture.</string>
+    <string name="content_desc_upload_button">Button to add a story.</string>
+
+    <!--  Hint  -->
+    <string name="hint_name_input">Enter your name</string>
+    <string name="hint_email_input">Enter your email</string>
+    <string name="hint_password_input">Enter your password</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="actionbar_upload_story">Upload Story</string>
+</resources>
